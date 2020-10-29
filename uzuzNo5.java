@@ -3,7 +3,7 @@ public class uzuzNo5 {
 
         int teika = 1000;
         double zeiritu = 1.08;
-        double siharai = teika * zeiritu;
+       double siharai = teika * zeiritu;
         System.out.println(siharai);
     }
 }
