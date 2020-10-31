@@ -7,6 +7,7 @@ public class uzNo6_ensyu {
         int answer2 = ++calc2;
         System.out.println(calc2);
         System.out.println(answer2);
+        System.out.println(answer2+calc2);
 
         int calc3 = 10;
         int answer3 = calc3++;
@@ -19,6 +20,8 @@ public class uzNo6_ensyu {
         System.out.println(answer4);
 
         System.out.println("1"+"6");
+
+        System.out.println(1+6);
 
 
     }
