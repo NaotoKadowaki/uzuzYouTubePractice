@@ -13,5 +13,6 @@ public class uzNo6_ensyu2 {
 
         boolean answer4 = (5 >= 3 + 2 || 2 + 8 != 9)&&!(6 == 2+4 );
         System.out.println(answer4);
+        
     }
 }
