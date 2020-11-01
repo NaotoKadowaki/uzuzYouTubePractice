@@ -13,6 +13,7 @@ public class uzNo6_ensyu {
         int answer3 = calc3++;
         System.out.println(calc3);
         System.out.println(answer3);
+        System.out.println(calc3+answer3);
 
         int calc4 = 10;
         int answer4 = calc4+1;
