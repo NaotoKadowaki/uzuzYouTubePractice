@@ -9,7 +9,7 @@ public class uzNo7enshu2 {
         // ↓正解文（上の）
         // long calc1_3 = 30000000000L ;
         // long answer1 = calc1_1 + calc1_2 + calc1_3 ;
-        // System.out.print(answer1);
+        // System.out.println(answer1);
 
 
         // byte calc2_1 = 4 ;
